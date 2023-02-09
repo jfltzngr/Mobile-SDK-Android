@@ -43,6 +43,9 @@
             are connected to the Internet before
             the app is launched
         -->
+        <meta-data
+            android:name="com.dji.sdk.API_KEY"
+            android:value="8a43643064e5a6b35c5834ed" />
         <!-- personal key -->
         <meta-data
             android:name="com.dji.sdk.API_KEY"
